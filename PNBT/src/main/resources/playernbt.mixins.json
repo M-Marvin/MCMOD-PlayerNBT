@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "de.m_marvin.playernbt.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"EntityDataAccessorMixin"
+	],
+	"client": [],
+	"minVersion": "0.8",
+	"injectors": { "defaultRequire": 1 }
+}
